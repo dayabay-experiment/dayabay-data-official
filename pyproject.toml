@@ -21,11 +21,13 @@ maintainers = [
   { name = "Daya Bay Reactor Neutrino Experiment", email = "yuzy@ihep.ac.cn" },
   { name = "Maxim Gonchar", email = "gonchar@jinr.ru" },
   { name = "Zeyuan Yu", email = "yuzy@ihep.ac.cn" },
+  { name = "Vitalii Zavadskyi", email = "zavadskyi@jinr.ru" },
 ]
 authors = [
   { name = "Daya Bay Reactor Neutrino Experiment", email = "yuzy@ihep.ac.cn" },
   { name = "Maxim Gonchar", email = "gonchar@jinr.ru" },
   { name = "Zeyuan Yu", email = "yuzy@ihep.ac.cn" },
+  { name = "Vitalii Zavadskyi", email = "zavadskyi@jinr.ru" },
 ]
 classifiers = [
   "Programming Language :: Python :: 3 :: Only",

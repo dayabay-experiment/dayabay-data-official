@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](http://semver.org/).
 - fix: add missing files with IBD histograms.
 - fix: remove stage of CI due to no check;
 - fix: update mailto links in [README.md](README.md).
+- fix: update authors, maintainers.
 - feature: add [CHANGELOG.md](CHANGELOG.md) file to track changes between versions.
 
 ## [1.0.0] - 2025-12-09
