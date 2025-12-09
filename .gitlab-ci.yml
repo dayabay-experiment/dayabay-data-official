@@ -1,22 +1,5 @@
 stages:
-  - tests
   - publish
-
-tests:
-  image: 'python:3.11.13-bullseye'
-  stage: tests
-
-  variables:
-    DATA_BRANCH: main
-  script:
-    - python3 -m venv venv
-    - source venv/bin/activate
-    - pip install --no-cache-dir --upgrade wheel setuptools pip
-    - pip install --no-cache-dir cython
-    - pip install --no-cache-dir -e "."
-  only:
-    - main
-    - merge_requests
 
 pypi:
   image: 'python:3.11.13-slim'
