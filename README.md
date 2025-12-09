@@ -48,7 +48,7 @@ If you host a copy of the dataset, it should be supplemented with the current de
 
 It is advised to use discussions and issues of the [GitHub dataset repository](https://github.com/dayabay-experiment/dayabay-data-official) as a main channel to provide feedback or request additional details related to the dataset itself.
 
-If a personal contact is desired, please, contact [Zeyuan Yu](<yuzy@ihep.ac.cn>) and [Maxim Gonchar](<gonchar@jinr.ru>).
+If a personal contact is desired, please, contact Zeyuan Yu (<yuzy@ihep.ac.cn>) and Maxim Gonchar (<gonchar@jinr.ru>).
 
 ## Analysis code
 
