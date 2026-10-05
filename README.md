@@ -28,7 +28,7 @@ If you use the dataset, cite the following sources:
 
 The analysis dataset contains all the necessary inputs, needed to perform a measurement of sin²2θ₁₃ and Δm²₃₂. It is available in four different formats: hdf5, npz, root and tsv (plain text, compressed).
 
-The detailed information on the contents of the files and formats is provided in one of dedicated readme files: [hdf5](src/dayabay_data_official/hdf5/README.md), [npz](src/dayabay_data_official/npz/README.md), [root](src/dayabay_data_official/root/README.md), [tsv](src/dayabay_data_official/tsv/README.md).
+The detailed information on the contents of the files and formats is provided in one of dedicated readme files: [hdf5](src/dayabay_data_official/data/hdf5/README.md), [npz](src/dayabay_data_official/data/npz/README.md), [root](src/dayabay_data_official/data/root/README.md), [tsv](src/dayabay_data_official/data/tsv/README.md).
 
 ## Data availability
 
